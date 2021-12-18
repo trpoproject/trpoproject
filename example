@@ -1,7 +1,8 @@
 #include <iostream>
 
+using namespace std;
 int main() {
   setlocale(LC_ALL, "");
-  std::cout << "Привет мир!";
+  cout << "Привет мир!";
   return 0;
 }
